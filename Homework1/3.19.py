@@ -31,4 +31,4 @@ if color == 'red':
 
 
 
-# FIXME (4): Calculate and output the total cost of paint can needed depending on color
+
